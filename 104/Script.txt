@@ -1,1 +1,1306 @@
+# [104] Dr. Gee - Prescribing Psychotropics in Medically Complex Patients: What Clinicians Need to Know
 
+Dear Dr. Gee, 
+
+Thank you for your time!
+
+As a remainder, I will list below the items that are missing in the script before recording:
+
+- **Section 2** → Please add 2 Key Points
+- **Section 3** → Please add 1 Key Point
+- **Section 4** → Please add 1 Key Point
+- **Section 9** → Please add the Clinical Case* and 3 Key Points
+- **Section 10** → Please add the Take-Home Messages**
+    
+    ***Clinical Case:** A practical case you would like to share with other clinicians that illustrates how to apply the recommendations discussed in the lecture. Given the breadth of topics covered, please feel free to choose a case where you can provide practical clinical tips and actionable insights that would be particularly valuable for other professionals.
+    
+    ****Take-Home Messages**: A brief summary of the most important points from the entire lecture, presented as bullet points.
+
+
+Don’t hesitate to ask me anything you need.
+
+Thank you again for everything! Warmly, 
+Mercedes
+
+- **INSTRUCTIONS**
+    
+    
+    <aside>
+    
+                                 **1**
+    
+    **What will you use this document for?**
+    
+    As a guideline during your audio recording. Instead of reading from slides, you will be reading from this document.
+    
+    </aside>
+    
+    <aside>
+    
+                                  **3**
+    
+    **Why did you divide my lecture into so many sections?**
+    
+    We use “microlearning” principles. Our goal is to facilitate bite-sized learning by dividing a lecture into small videos. This makes your content easier to consume while commuting or during no-shows. Each section must last between 5-12 minutes.
+    
+    </aside>
+    
+    <aside>
+    
+                                **5**
+    
+    **Why do you need references?**
+    
+    Our CME activities provide accredited continuing medical education credits, which require that all content be evidence-based, accurate, and free from commercial bias. Including references ensures compliance with accreditation standards, supports scientific validity, and allows participants to verify and explore the source material.
+    
+    </aside>
+    
+    <aside>
+    
+                                **6**
+    
+    ***What are the comments for?***
+    
+    - The editors’ comments are intended to clarify or elaborate on areas that may not be immediately clear to your audience, while shaping the script into a final product that offers practical and relevant content for them.
+    - While all comments should be addressed, you can choose to leave the questions unanswered, answer them in writing, or do so during the recording session.
+    </aside>
+    
+    <aside>
+    
+                                  **2**
+    
+    **How is this document structured?**
+    
+    The lecture is divided into sections and each one of these consists on:
+    
+    1. **The content**
+    2. **The Key Points**
+    3. **The References**
+    </aside>
+    
+    <aside>
+    
+                                  **4**
+    
+    **Why do you need me to write the Key Points?**
+    
+    The Key Points are 2-3 bullet points that summarize what you just said in each section. Our subscribers appreciate having concrete take-home messages they can use in their practice. To write them, please:
+    
+    - *Pretend the clinician hasn't viewed or listened to this section*
+    - *Write 2-3 key messages you would tell him/her, and be as direct and practical as possible*
+    - *Don't be afraid to be redundant or repetitive. Professionals appreciate direct and clear concepts.*
+    </aside>
+    
+</aside>
+
+<aside>
+
+### SECTION 1: ADHD Medications and Cardiac **Side Effects**
+
+<aside>
+
+- **Content**
+    
+    ### ADHD Medications with Cardiac Warnings
+    
+    - **Stimulant drugs**: Methylphenidate and dexamphetamine
+    • **Non-stimulant**: Atomoxetine
+    • **Lisdexamphetamine**: Prodrug of dexamphetamine, contraindicated in symptomatic cardiovascular disease and moderate hypertension
+    
+    ---
+    
+    ## Biological Plausibility for Cardiovascular Effects
+    
+    ### Sympathomimetic Effects
+    
+    - **Mechanism**: Stimulants and atomoxetine are sympathomimetic agents^245,246^
+    • **Blood pressure effects**: Known to cause small rises in blood pressure^247^
+    - Average increases: 3-6 mmHg systolic, 2-4 mmHg diastolic
+    - Some tolerance may develop over time
+    • **Heart rate effects**: Average reported increases of 4-5 bpm^247^
+    
+    ### Cardiac Electrophysiology
+    
+    - **Proarrhythmogenic effects**: Stimulants and atomoxetine are proarrhythmogenic due to beta-adrenergic stimulation of the heart^248^
+    • **Potential consequences**: May potentially worsen atrial fibrillation or tachycardias
+    • **Clinical translation**: Not clear whether this translates into direct association with adverse cardiac outcomes
+    
+    ### Additional Cardiovascular Effects
+    
+    - **Heart rate variability**: Drugs shown to reduce heart rate variability^249^
+    • **Arterial stiffness**: Shown to increase arterial stiffness^249^
+    • **Comparative risks**: Other sympathomimetic drugs also associated with adverse cardiac outcomes^250^
+    
+    ---
+    
+    ## Evidence-Based Summary
+    
+    ### Current Evidence Assessment
+    
+    - **Absolute contraindication**: Not cogently supported by current evidence^247^
+    • **Event rarity**: Serious cardiac or cerebrovascular events in patients taking ADHD medicines are rare
+    • **Risk-benefit analysis**: Risk may be outweighed by benefits of medication
+    • **Baseline risk**: Patients with pre-existing cardiovascular disease have higher baseline risk before adding ADHD medication risk - this must be weighed against potential benefits
+    
+    ### Lisdexamphetamine Specific Evidence
+    
+    - **Study availability**: Comparatively less studied than other ADHD medications
+    • **Safety profile**: As prodrug of dexamphetamine, has similar safety profile to other stimulants^241^
+    • **Comparative safety**: Cohort study suggested little or no increased cardiovascular risk compared to other ADHD medications^242^
+    
+    ---
+    
+    ## Clinical Recommendations
+    
+    ### Legal and Prescribing Considerations
+    
+    - **Medicolegal awareness**: Be aware of medicolegal implications of prescribing in context of manufacturer contraindication
+    • **Preference for alternatives**: Where possible, avoid use of stimulants or atomoxetine in patients with cardiovascular or cerebrovascular disease
+    • **Alternative options**: Use non-drug options or other medication in preference
+    
+    ### Monitoring and Management
+    
+    - **Blood pressure and heart rate**: Increases usually not clinically significant
+    • **Tolerance development**: Some tolerance to cardiovascular effects may develop over time
+    • **Continuation decisions**: Do not stop medication unless clinically necessary
+    
+    ### High-Risk Patients
+    
+    - **Proarrhythmic conditions**: Patients with proarrhythmic cardiovascular diseases may be at particular risk
+    • **Selective use**: Should only be used if clear benefit and after other treatment options exhausted
+    • **Specialist involvement**: Consider cardiology consultation
+    
+    ### ECG Monitoring
+    
+    - **Baseline ECG**: Recommended despite limited predictive value
+    • **Ongoing monitoring**: Usually do not cause apparent ECG changes
+    • **Limited value**: ECG monitoring probably of limited value in predicting drug-induced arrhythmia or sudden cardiac death risk^247^
+    • **Specialist consultation**: Need for ongoing ECG monitoring should be discussed with cardiologist
+    
+    ---
+    
+    ## Risk Stratification Approach
+    
+    ### Patient Assessment Factors
+    
+    - **Baseline cardiovascular risk**: Consider existing cardiovascular disease burden
+    • **Age considerations**: Older adults have increased baseline risk and more drug interactions
+    • **Comorbidity assessment**: Evaluate smoking status, obesity, concurrent medications
+    • **ADHD severity**: Weigh severity of ADHD symptoms against cardiovascular risks
+    
+    ### Treatment Decision Framework
+    
+    - **First-line approach**: Consider non-pharmacological interventions first
+    • **Alternative medications**: Explore other psychiatric medications if appropriate
+    • **Risk-benefit analysis**: Individual assessment of benefits versus cardiovascular risks
+    • **Monitoring intensity**: Tailor monitoring to individual risk profile
+    
+    ---
+    
+    ## Special Populations
+    
+    ### Older Adults (>66 years)
+    
+    - **Increased baseline risk**: Higher risk for cardiovascular events
+    • **Polypharmacy concerns**: More likely to take several drugs, increasing interaction risk
+    • **Time-dependent risk**: Some studies suggest risk highest in first 30 days, then attenuates
+    • **Limited data**: Fewer studies available for this population
+    
+    ### Patients with Existing Cardiac Disease
+    
+    - **Higher baseline risk**: Already elevated risk of further adverse events
+    • **Individual assessment**: Careful consideration of additional risk from ADHD medications
+    • **Specialist involvement**: May require cardiology input for management decisions
+    • **Close monitoring**: Enhanced surveillance for cardiovascular events
+    
+    ---
+    
+    ## Key Clinical Takeaways
+    
+    - **Evidence contradictions**: Current evidence does not strongly support absolute contraindication in cardiovascular disease^247^
+    • **Manufacturer warnings**: Legal and safety considerations require awareness of contraindications
+    • **Individual assessment**: Risk-benefit analysis essential for each patient
+    • **Rare events**: Serious cardiovascular events with ADHD medications are rare
+    • **Baseline ECG**: Recommended despite limited predictive value for arrhythmia risk
+    • **Specialist consultation**: Consider cardiology involvement for high-risk patients
+    • **Alternative approaches**: Prefer non-drug options when possible in cardiovascular disease
+    • **Monitoring approach**: Focus on clinical necessity rather than routine parameter changes
+
+<aside>
+
+🔑 **Key Points by Dr. Gee**
+
+- The absolute contraindication of medicines for ADHD in cardiovascular disease is not cogently supported by current evidence.  Serious cardiac or cerebrovascular events in patients taking ADHD medicines are rare, and the risk may be outweighed by the benefits of the medication.
+- Patients with pre-existing cardiovascular disease have a higher baseline risk of a further adverse cardiac event before adding to the risk with ADHD medication, so this should be considered when weighing the risks against the potential benefits.
+- If possible, avoid the use of stimulants or atomoxetine in patients with cardiovascular or cerebrovascular disease.  But, know that the risks are likely to be small for most patients and may be outweighed by the benefits.  Patients with pro-arrythmic cardiovascular diseases may be at particular risk from stimulants and atomoxetine, so these drugs should only be used in these patients if there is clear benefit and other treatment options have been exhausted.
+</aside>
+
+- **References**
+    1. Nissen, S. E. ADHD Drugs and Cardiovascular Risk. N Engl J Med 2006; 354: 1445–1448, doi:10.1056/NEJMp068049.
+    2. Winterstein, A. G. et al. Cardiac Safety of Central Nervous System Stimulants in Children and Adolescents With Attention-Deficit/Hyperactivity Disorder. Pediatrics 2007; 120: e1494–e1501, doi:10.1542/peds.2007-0675.
+    3. Cooper, W. O. et al. ADHD drugs and serious cardiovascular events in children and young adults. N Engl J Med 2011; 365: 1896–1904, doi:10.1056/NEJMoa1110212.
+    4. Habel, L. A. et al. ADHD medications and risk of serious cardiovascular events in young and middle-aged adults. JAMA 2011; 306: 2673–2683, doi:10.1001/jama.2011.1830.
+    5. Shin, J.- Y. et al. Cardiovascular safety of methylphenidate among children and young people with attention-deficit/hyperactivity disorder (ADHD): nationwide self controlled case series study. BMJ 2016; 353: i2550, doi:10.1136/bmj.i2550.
+    6. Li, L. et al. Attention-deficit/hyperactivity disorder as a risk factor for cardiovascular diseases: a nationwide population-based cohort study. World Psychiatry 2022; 21: 452–459, doi:10.1002/wps.21020.
+    7. Schelleman, H. et al. Methylphenidate and risk of serious cardiovascular events in adults. Am J Psychiatry 2012; 169: 178–185, doi:10.1176/appi.ajp.2011.11010125.
+    8. Holick, C. N. et al. Atomoxetine and cerebrovascular outcomes in adults. J Clin Psychopharmacol 2009; 29: 453–460, doi:10.1097/JCP.0b013e3181b2b828.
+    9. Zhang, L. et al. Risk of cardiovascular diseases associated with medications used in attention-deficit/hyperactivity disorder: a systematic review and meta-analysis. JAMA Netw Open 2022; 5: e2243597, doi:10.1001/jamanetworkopen.2022.43597.
+    10. Coghill, D. R. et al. A systematic review of the safety of lisdexamfetamine dimesylate. CNS Drugs 2014; 28: 497–511, doi:10.1007/s40263- 014- 0166- 2.
+    11. Forns, J. et al. Risk of major cardiovascular and cerebrovascular events in users of lisdexamfetamine and other medications for attention-deficit/hyperactivity disorder in Denmark and Sweden: a population-based cohort study. Neurology and Therapy 2022; 11: 1659–1676, doi:10.1007/s40120- 022- 00396- y.
+    12. Tadrous, M. et al. Assessment of stimulant use and cardiovascular event risks among older adults. JAMA Netw Open 4: e2130795, doi:10.1001/jamanetworkopen.2021.30795 (2021).
+    13. Jeong, H. E. et al. Association between methylphenidate and risk of myocardial infarction: a multinational self-controlled case series study. Pharmacoepidemiol Drug Saf 2021; 30: 1458–1467, doi:10.1002/pds.5322.
+    14. Mick, E., McManus, D. D. & Goldberg, R. J. Meta-analysis of increased heart rate and blood pressure associated with CNS stimulant treatment of ADHD in adults. Eur Neuropsychopharmacol 2013; 23: 534–541, doi:10.1016/j.euroneuro.2012.06.011.
+    15. Liang, E. F. et al. The effect of methylphenidate and atomoxetine on heart rate and systolic blood pressure in young people and adults with attention-deficit hyperactivity disorder (ADHD): Systematic review, meta-analysis, and meta-regression. Int J Environ Res Public Health 2018; 15: doi:10.3390/ijerph15081789.
+    16. Topriceanu, C.-C., Moon, J. C., Captur, G. & Perera, B. The use of attention-deficit hyperactivity disorder medications in cardiac disease. Front Neurosci 2022; 16: doi:10.3389/fnins.2022.1020961.
+    17. Tisdale, J. E. et al. Drug-induced arrhythmias: A scientific statement from the American Heart Association. Circulation 2020; 142: e214–e233, doi:10.1161/cir.0000000000000905.
+    18. Kelly, A. S. et al. Cardiac autonomic dysfunction and arterial stiffness among children and adolescents with attention deficit hyperactivity disorder treated with stimulants. J Pediatrics 2014; 165: 755–759, doi: [https://doi.org/10.1016/j.jpeds.2014.05.043](https://doi.org/10.1016/j.jpeds.2014.05.043).
+    19. Curtis, B. M. & O'Keefe, J. H. Autonomic tone as a cardiovascular risk factor: the dangers of chronic fight or flight. Mayo Clin Proceedings 2002; 77: 45–54, doi: [https://doi.org/10.4065/77.1.45](https://doi.org/10.4065/77.1.45).
+</aside>
+
+</aside>
+
+<aside>
+
+### SECTION 2: Anticoagulation: Focus on Antidepressants
+
+<aside>
+
+- **Content**
+    
+    ## Antidepressants and Anticoagulation
+    
+    ### Mechanism of Bleeding Risk
+    
+    - **Serotonergic antidepressants**: Associated with increased risk of bleeding and prolonged duration or severity of bleeding (not restricted to gastrointestinal bleeds)^203,204^
+    • **Mechanism**: Related to affinity of the drug for the serotonin transporter on platelets
+    • **Patients at risk**: Those taking concurrent anticoagulants (warfarin or non-vitamin K antagonists) at increased risk when also given serotonergic antidepressant^203,204^
+    
+    ### Preferred Antidepressants (Low Serotonin Transporter Affinity)
+    
+    - **Available options**: Trazodone, mianserin, reboxetine, dosulepin, moclobemide, nortriptyline, phenelzine, trimipramine, lofepramine, mirtazapine, and agomelatine
+    • **NICE recommendations**: Trazodone and mianserin recommended by UK NICE^13^
+    • **Trazodone considerations**: May increase digoxin levels^205^
+    • **Reboxetine limitations**: Not effective and risk of hypokalaemia and hypocalcaemia when given with diuretics^205^
+    
+    ### TCAs and MAOIs Considerations
+    
+    - **TCAs**: Proarrhythmic properties
+    • **TCAs and MAOIs**: Associated with increased blood pressure
+    • **Safety profile**: Less suitable for patients with cardiac disease
+    
+    ### Mirtazapine: Special Considerations
+    
+    - **Warfarin interaction**: Small study in healthy subjects showed minor INR increase when combined with warfarin^206^
+    - Mean INR increased from 1.6 to 1.8
+    - Not considered clinically significant initially, however:
+    • **Case reports**: Two case reports describe much larger increases in INR^207,208^
+    • **Monitoring requirements**: Monitor INR if mirtazapine added to warfarin, at initiation and dose changes
+    • **NOAC interaction**: Evidence of increased bleeding risk when mirtazapine combined with non-vitamin K antagonist oral anticoagulants (NOACs)^209^
+    • **Weight gain**: Note the risk of weight gain with mirtazapine
+    
+    ## Agomelatine Profile
+    
+    - **Safety**: Safer alternative to mirtazapine
+    • **Interactions**: No significant bleeding or anticoagulant interactions reported
+    
+    ### **Recommendation: Mirtazapine or agomelatine**
+    
+    ### Monitoring Recommendations
+    
+    - **Mirtazapine + warfarin**: Monitor INR at initiation and dose changes
+    • **Valproate considerations**: Regular hematological monitoring if used
+    • **Clinical vigilance**: Watch for signs of bleeding in all patients on combination therapy
+    
+    ---
+    
+    ### Summary Recommendations
+    
+    - **First choice**: Mirtazapine or agomelatine
+    • **Monitoring**: INR monitoring required with mirtazapine + warfarin
+    • **Avoid**: High serotonin transporter affinity drugs in high-risk patients
+
+<aside>
+
+🔑 **Key Points by Dr. Gee**
+
+- All serotonergic antidepressants are associated to some extent with an increased risk of bleeding, but the absolute risk is still small.
+- If possible, choose antidepressants with lower or no affinity for the serotonin transporter on platelets (mirtazapine, agomelatine).
+- There is a small amount of evidence suggesting a possible effect of mirtazapine on INR, so this should be monitored closely for patients taking warfarin.
+
+</aside>
+
+- **References**
+    1. Labos, C. et al. Risk of bleeding associated with combined use of selective serotonin reuptake inhibitors and antiplatelet therapy following acute myocardial infarction. Cmaj 2011; 183: 1835–1843, doi:10.1503/cmaj.100912.
+    2. Machado, C. M. et al. Impact of selective serotonin-reuptake inhibitors in hemorrhagic risk in anticoagulated patients taking non-vitamin K antagonist anticoagulants: a systematic review and meta-analysis. J Clin Psychopharmacol 2023; 43: 267–272, doi:10.1097/jcp.0000000000001684.
+    3. Stockley, I. H. Stockley's Drug Interactions. Pharmaceutical Press (2008).
+    4. Spaans, E. et al. The effects of mirtazapine on steady state prothrombin time during warfarin therapy. Pharmacol Toxicol 2001; 89: 80.
+    5. Norton, J. et al. Mirtazapine-induced warfarin toxicity. Primary Psychiatry 2002; 9: 30–31.
+    6. Nishimura, H. et al. A case with the increased PT-INR after the addition of mirtazapine to warfarin therapy. Seishin Shinkeigaku Zasshi 2015; 117: 820–825.
+    7. Chang, K. H. et al. Major bleeding risk in patients with non-valvular atrial fibrillation concurrently taking direct oral anticoagulants and antidepressants. Front Aging Neurosci 2022; 14: 791285, doi:10.3389/fnagi.2022.791285
+    8. Verdel, B. M. et al. Use of serotonergic drugs and the risk of bleeding. Clin Pharmacol Therapeutics 2011; 89: 89–96, doi: [https://doi.org/10.1038/clpt.2010.240](https://doi.org/10.1038/clpt.2010.240).
+    9. Chen, C. M. et al. Major bleeding risk in atrial fibrillation patients co-medicated with non-vitamin K oral anticoagulants and antipsychotics. Front Pharmacol 2022; 13: 819878, doi:10.3389/fphar.2022.819878.
+    10. Parker, C. et al. Antipsychotic drugs and risk of venous thromboembolism: nested case-control study. BMJ 2010; 341: c4245, doi:10.1136/bmj.c4245.
+    11. Loiseau, P. Sodium valproate, platelet dysfunction, and bleeding. Epilepsia 1981; 22: 141–146, doi: [https://doi.org/10.1111/j.1528-1157.1981.tb04094.x](https://doi.org/10.1111/j.1528-1157.1981.tb04094.x).
+    12. Fajardo, A. et al. Valproic acid and the risk of perioperative bleeding. Case report and literature review. Col J Anesthesiol 2013; 41: 61–64, doi: [https://doi.org/10.1016/j.rcae.2012.07.007](https://doi.org/10.1016/j.rcae.2012.07.007).
+    13. Post, D. S. et al. Assessment of need for hemostatic evaluation in patients taking valproic acid: A retrospective cross-sectional study. PLOS ONE 2022; 17: e0264351, doi:10.1371/journal.pone.0264351.
+    14. Shan, J. et al. Prevalence of heavy menstrual bleeding and its associated cognitive risks and predictive factors in women with severe mental disorders. Front Pharmacol 2022; 13: 904908, doi:10.3389/fphar.2022.904908.
+    15. Sleiman, C. et al. Fatal Pulmonary hemorrhage during high-dose valproate monotherapy. Chest 2000; 117: 613, doi: [https://doi.org/10.1378/chest.117.2.613](https://doi.org/10.1378/chest.117.2.613).
+    16. Johnston, J. P. et al. Valproic acid-induced thrombocytopenia-related spontaneous systemic Bleeding. Am J Case Rep 2020; 21: e927830, doi:10.12659/ajcr.927830.
+    17. Chen, H. F. et al. Valproic acid-associated low fibrinogen and delayed intracranial hemorrhage: case report and mini literature review. Drug Des Devel Ther 2013; 7: 767–770, doi:10.2147/dddt.S47718.
+    18. Steffel, J. et al. The 2018 European Heart Rhythm Association practical guide on the use of non-vitamin K antagonist oral anticoagulants in patients with atrial fibrillation. Eur Heart J 2018; 39: 1330–1393, doi:10.1093/eurheartj/ehy136.
+    19. Giustozzi, M. et al. Concomitant use of direct oral anticoagulants and antiepileptic drugs: a prospective cohort study in patients with atrial fibrillation. Clin Drug Investig 2021; 41: 43–51, doi:10.1007/s40261- 020- 00982- 8.
+    20. Gronich, N., Stein, N. & Muszkat, M. Association between use of pharmacokinetic-interacting drugs and effectiveness and safety of direct acting oral anticoagulants: nested case-control study. Clin Pharmacol Ther 2021; 110: 1526–1536, doi:10.1002/cpt.2369.
+    21. Candeloro, M. et al. Carbamazepine, phenytoin, and oral anticoagulants: Drug-drug interaction and clinical events in a retrospective cohort. Res Pract Thromb Haemost 2022; 6: e12650, doi:10.1002/rth2.12650.
+    22. Li, A. et al. Drug-drug interactions with direct oral anticoagulants associated with adverse events in the real world: A systematic review. Thromb Res 2020; 194: 240–245, doi:10.1016/j.thromres.2020.08.016.
+    23. Song, D. et al. Lithium attenuates blood-brain barrier damage and brain edema following intracerebral hemorrhage via an endothelial Wnt/β-catenin signaling-dependent mechanism in mice. CNS Neurosci Ther 2022; 28: 862–872, doi:10.1111/cns.13832.
+    24. Oguzoglu, A. S. et al. Pregabalin protects brain tissue from subarachnoid hemorrhage by enhancing HIF-1α/eNOS signaling and VEGF production. World Neurosurg 2021; 152: e713–e720, doi:10.1016/j.wneu.2021.06.011.
+    25. Cholongitas, E. et al. Recurrence of upper gastrointestinal bleeding after donepezil administration. Alzheimer Dis Assoc Disord 2006; 20: 326, doi:10.1097/01.wad.0000213851.59119.0b.
+    26. Kok, K. S. et al. Upper gastrointestinal bleed associated with cholinesterase inhibitor use. BMJ Case Reports 2015, doi:10.1136/bcr-2015- 211859.
+    27. Gareri, P. et al. Melaena following Use of the Cholinesterase Inhibitor Rivastigmine. Clinical Drug Investigation 2005; 25: 215–217, doi:10.2165/00044011- 200525030- 00008.
+    28. Bennett, J. A. et al. Acetylcholine Inhibits Platelet Activation.
+    29. [Reference continues but cut off in source material]
+</aside>
+
+</aside>
+
+<aside>
+
+### SECTION 3: Anticoagulation: Focus on Antipsychotics
+
+<aside>
+
+- **Content**
+    
+    ## Antipsychotics and Anticoagulation
+    
+    ### Bleeding Mechanism
+    
+    - **5-HT₂A receptor antagonism**: Antipsychotics that are antagonists at 5-HT₂A receptor may affect platelet aggregation
+    • **Theoretical risk**: May contribute to increased risk of prolonged bleeding
+    • **Evidence**: Single case-control study suggested increased risk of gastrointestinal and intracranial bleeding^210^
+    - Did not find association between degree of 5-HT₂A receptor affinity
+    - Study has yet to be replicated
+    
+    ### NOAC Interactions: Pharmacokinetic Considerations
+    
+    - **NOAC metabolism**: NOACs are substrates of P-glycoprotein, metabolised by CYP3A4
+    • **Antipsychotic effects**: Antipsychotics that are CYP3A4 and/or P-glycoprotein inhibitors may increase NOAC plasma concentrations
+    • **Enhanced effect**: May enhance anticoagulant effect and increase bleeding risk
+    
+    ### Higher-Risk Antipsychotics
+    
+    - **Haloperidol and quetiapine**: Mainly metabolised by CYP3A4 and also inhibit P-glycoprotein^211^
+    • **Clinical evidence**: Large Taiwanese cohort study found increased bleeding risk when patients with atrial fibrillation exposed to NOAC and antipsychotic, with highest risk in patients taking haloperidol^211^
+    
+    ### Lower-Risk Alternatives
+    
+    - **Olanzapine**: CYP3A4 plays more minor role in metabolism^211^
+    • **Aripiprazole**: Less associated with higher bleeding risk in cohort studies
+    
+    ### Special Populations
+    
+    - **Elderly patients**: Using antipsychotics for behavioural symptoms in dementia or delirium
+    • **Renal impairment**: Concurrent renal impairment increases NOAC plasma concentrations
+    • **Recommendations**: Consider avoiding haloperidol and quetiapine; choose olanzapine or aripiprazole
+    
+    ### Venous Thromboembolism Risk
+    
+    - **Paradoxical effect**: Antipsychotics associated with increased risk of venous thromboembolism, particularly at treatment start^212^
+    • **Absolute risk**: Small - extra four cases per 10,000 patients treated over 1 year (all age groups), 10 cases for patients aged 65 and over^212^
+    • **Clinical relevance**: May be relevant for patients who have experienced thromboembolic event and at risk of another
+    
+    **Recommendation: All antipsychotics associated with small risk of thromboembolism. Avoid haloperidol and quetiapine in patients taking NOACs**
+    
+    ---
+    
+    ### Summary Recommendations
+    
+    - **General principle**: All associated with small thromboembolism risk
+    • **NOAC combinations**: Avoid haloperidol and quetiapine
+    • **Safer options**: Olanzapine or aripiprazole in high-risk patients
+
+<aside>
+
+🔑 **Key Points by Dr. Gee**
+
+- There is very limited evidence to suggest an association of antipsychotics with bleeding, but stronger evidence to associate them with thromboembolism.
+- Quetiapine and haloperidol may interact with NOACs, although specific evidence for this is limited.  If possible, choose a different antipsychotic.
+- There is insufficient evidence to direct a choice of any single antipsychotic over another in terms of risk of thromboembolism.  Avoiding adding to other conditions that increase the risk of VTE (eg. weight gain) is important.
+</aside>
+
+- **References**
+    1. Labos, C. et al. Risk of bleeding associated with combined use of selective serotonin reuptake inhibitors and antiplatelet therapy following acute myocardial infarction. Cmaj 2011; 183: 1835–1843, doi:10.1503/cmaj.100912.
+    2. Machado, C. M. et al. Impact of selective serotonin-reuptake inhibitors in hemorrhagic risk in anticoagulated patients taking non-vitamin K antagonist anticoagulants: a systematic review and meta-analysis. J Clin Psychopharmacol 2023; 43: 267–272, doi:10.1097/jcp.0000000000001684.
+    3. Stockley, I. H. Stockley's Drug Interactions. Pharmaceutical Press (2008).
+    4. Spaans, E. et al. The effects of mirtazapine on steady state prothrombin time during warfarin therapy. Pharmacol Toxicol 2001; 89: 80.
+    5. Norton, J. et al. Mirtazapine-induced warfarin toxicity. Primary Psychiatry 2002; 9: 30–31.
+    6. Nishimura, H. et al. A case with the increased PT-INR after the addition of mirtazapine to warfarin therapy. Seishin Shinkeigaku Zasshi 2015; 117: 820–825.
+    7. Chang, K. H. et al. Major bleeding risk in patients with non-valvular atrial fibrillation concurrently taking direct oral anticoagulants and antidepressants. Front Aging Neurosci 2022; 14: 791285, doi:10.3389/fnagi.2022.791285
+    8. Verdel, B. M. et al. Use of serotonergic drugs and the risk of bleeding. Clin Pharmacol Therapeutics 2011; 89: 89–96, doi: [https://doi.org/10.1038/clpt.2010.240](https://doi.org/10.1038/clpt.2010.240).
+    9. Chen, C. M. et al. Major bleeding risk in atrial fibrillation patients co-medicated with non-vitamin K oral anticoagulants and antipsychotics. Front Pharmacol 2022; 13: 819878, doi:10.3389/fphar.2022.819878.
+    10. Parker, C. et al. Antipsychotic drugs and risk of venous thromboembolism: nested case-control study. BMJ 2010; 341: c4245, doi:10.1136/bmj.c4245.
+    11. Loiseau, P. Sodium valproate, platelet dysfunction, and bleeding. Epilepsia 1981; 22: 141–146, doi: [https://doi.org/10.1111/j.1528-1157.1981.tb04094.x](https://doi.org/10.1111/j.1528-1157.1981.tb04094.x).
+    12. Fajardo, A. et al. Valproic acid and the risk of perioperative bleeding. Case report and literature review. Col J Anesthesiol 2013; 41: 61–64, doi: [https://doi.org/10.1016/j.rcae.2012.07.007](https://doi.org/10.1016/j.rcae.2012.07.007).
+    13. Post, D. S. et al. Assessment of need for hemostatic evaluation in patients taking valproic acid: A retrospective cross-sectional study. PLOS ONE 2022; 17: e0264351, doi:10.1371/journal.pone.0264351.
+    14. Shan, J. et al. Prevalence of heavy menstrual bleeding and its associated cognitive risks and predictive factors in women with severe mental disorders. Front Pharmacol 2022; 13: 904908, doi:10.3389/fphar.2022.904908.
+    15. Sleiman, C. et al. Fatal Pulmonary hemorrhage during high-dose valproate monotherapy. Chest 2000; 117: 613, doi: [https://doi.org/10.1378/chest.117.2.613](https://doi.org/10.1378/chest.117.2.613).
+    16. Johnston, J. P. et al. Valproic acid-induced thrombocytopenia-related spontaneous systemic Bleeding. Am J Case Rep 2020; 21: e927830, doi:10.12659/ajcr.927830.
+    17. Chen, H. F. et al. Valproic acid-associated low fibrinogen and delayed intracranial hemorrhage: case report and mini literature review. Drug Des Devel Ther 2013; 7: 767–770, doi:10.2147/dddt.S47718.
+    18. Steffel, J. et al. The 2018 European Heart Rhythm Association practical guide on the use of non-vitamin K antagonist oral anticoagulants in patients with atrial fibrillation. Eur Heart J 2018; 39: 1330–1393, doi:10.1093/eurheartj/ehy136.
+    19. Giustozzi, M. et al. Concomitant use of direct oral anticoagulants and antiepileptic drugs: a prospective cohort study in patients with atrial fibrillation. Clin Drug Investig 2021; 41: 43–51, doi:10.1007/s40261- 020- 00982- 8.
+    20. Gronich, N., Stein, N. & Muszkat, M. Association between use of pharmacokinetic-interacting drugs and effectiveness and safety of direct acting oral anticoagulants: nested case-control study. Clin Pharmacol Ther 2021; 110: 1526–1536, doi:10.1002/cpt.2369.
+    21. Candeloro, M. et al. Carbamazepine, phenytoin, and oral anticoagulants: Drug-drug interaction and clinical events in a retrospective cohort. Res Pract Thromb Haemost 2022; 6: e12650, doi:10.1002/rth2.12650.
+    22. Li, A. et al. Drug-drug interactions with direct oral anticoagulants associated with adverse events in the real world: A systematic review. Thromb Res 2020; 194: 240–245, doi:10.1016/j.thromres.2020.08.016.
+    23. Song, D. et al. Lithium attenuates blood-brain barrier damage and brain edema following intracerebral hemorrhage via an endothelial Wnt/β-catenin signaling-dependent mechanism in mice. CNS Neurosci Ther 2022; 28: 862–872, doi:10.1111/cns.13832.
+    24. Oguzoglu, A. S. et al. Pregabalin protects brain tissue from subarachnoid hemorrhage by enhancing HIF-1α/eNOS signaling and VEGF production. World Neurosurg 2021; 152: e713–e720, doi:10.1016/j.wneu.2021.06.011.
+    25. Cholongitas, E. et al. Recurrence of upper gastrointestinal bleeding after donepezil administration. Alzheimer Dis Assoc Disord 2006; 20: 326, doi:10.1097/01.wad.0000213851.59119.0b.
+    26. Kok, K. S. et al. Upper gastrointestinal bleed associated with cholinesterase inhibitor use. BMJ Case Reports 2015, doi:10.1136/bcr-2015- 211859.
+    27. Gareri, P. et al. Melaena following Use of the Cholinesterase Inhibitor Rivastigmine. Clinical Drug Investigation 2005; 25: 215–217, doi:10.2165/00044011- 200525030- 00008.
+    28. Bennett, J. A. et al. Acetylcholine Inhibits Platelet Activation.
+    29. [Reference continues but cut off in source material]
+</aside>
+
+</aside>
+
+<aside>
+
+### SECTION 4: Anticoagulation: Focus on Mood Stabilizers
+
+<aside>
+
+- **Content**
+    
+    ## Mood Stabilizers and Anticoagulation
+    
+    ### Sodium Valproate: Complex Risk Profile
+    
+    ### Haematological Effects
+    
+    - **Multiple abnormalities**: Causes variety of haematological abnormalities, including inhibition of platelet aggregation and thrombocytopenia^213^
+    • **Clinical significance**: Disputed in literature
+    • **Perioperative bleeding**: Some retrospective studies demonstrate increase, others do not^214^
+    
+    ### Population-Specific Risks
+    
+    - **Pediatric vs adult**: Most published data in children undergoing neurosurgery for epilepsy
+    • **Age consideration**: Children appear more at risk of valproate-induced coagulopathies than adults^215^
+    • **Women**: Retrospective studies found association between heavy menstrual bleeding and valproate in women with serious mental illness^216^
+    
+    ### Severe Bleeding Reports
+    
+    - **Case reports**: Descriptions of severe or even fatal haemorrhage limited to case reports (in epilepsy)^217-219^
+    • **Concentration independence**: Thrombocytopenia and bleeding reported at both supratherapeutic and subtherapeutic plasma concentrations
+    
+    ### NOAC Interactions
+    
+    - **Enzyme induction**: Valproate inducer of CYP3A4 and P-glycoprotein, may result in lower NOAC plasma concentrations
+    • **Contraindication**: Combination contraindicated by European Society of Cardiology^220^
+    • **Clinical evidence**: Evidence of interaction in clinical practice is limited^221,222^
+    
+    ### Carbamazepine: High Interaction Risk
+    
+    - **Potent inducer**: CYP3A4 and P-glycoprotein inducer
+    • **Clinical impact**: Increases metabolism of both vitamin K antagonists and NOACs
+    • **Thrombotic events**: Clinically important, resulting in increased incidence of thrombotic events^223,224^
+    • **Discontinuation risk**: Risk of overcoagulation if carbamazepine stopped in patient taking anticoagulant (if doses adjusted during co-treatment)
+    
+    ### Safe Options
+    
+    - **Lamotrigine**: Does not interact with anticoagulants or increase bleeding risk
+    • **Lithium**:
+    - Free of anticoagulant drug interactions
+    - Not associated with increased bleeding risk
+    - Preclinical studies suggest may be neuroprotective after intracranial haemorrhage^225^
+    
+    ### **Recommendation: Lithium, lamotrigine**
+    
+    ---
+    
+    ### Clinical Management Guidelines
+    
+    ### Assessment Priorities
+    
+    - **Risk stratification**: Identify patients at highest bleeding risk
+    • **Drug selection**: Choose psychiatric medications with lowest bleeding risk
+    • **Monitoring requirements**: Establish appropriate monitoring protocols
+    
+    ### Monitoring Recommendations
+    
+    - **Valproate considerations**: Regular hematological monitoring if used
+    
+    ### Drug Interaction Management
+    
+    - **CYP3A4 inducers**: Avoid carbamazepine; consider valproate contraindication
+    • **P-glycoprotein interactions**: Avoid high-risk antipsychotic combinations with NOACs
+    • **Dose adjustments**: Consider anticoagulant dose modifications when starting/stopping interacting psychiatric medications
+    
+    ---
+    
+    ### Summary Recommendations by Drug Class
+    
+    ### Mood Stabilizers
+    
+    - **Preferred**: Lithium, lamotrigine
+    • **Caution**: Valproate (possibly avoid)
+    • **Avoid**: Carbamazepine
+
+<aside>
+
+🔑 **Key Points by Dr. Gee**
+
+- Valproate can cause haematological abnormalities and is associated with an increased risk of bleeding in children with epilepsy, the significance of this for adults without epilepsy is unclear.  Valproate theoretically interacts with NOACs and the combination is contraindicated by some, but evidence of the interaction in practice is lacking.  If possible, avoid valproate in patients at risk of bleeding or those taking anticoagulants.
+- Lithium, lamotrigine, sedatives such as antihistamines and benzodiazepines do not increase the risk of bleeding and do not interact with anticoagulants.
+- Carbamazepine should be avoided, there is a clinically important interaction with vitamin K antagonists and NOACs that results in an increased risk of thrombosis.
+</aside>
+
+- **References**
+    1. Labos, C. et al. Risk of bleeding associated with combined use of selective serotonin reuptake inhibitors and antiplatelet therapy following acute myocardial infarction. Cmaj 2011; 183: 1835–1843, doi:10.1503/cmaj.100912.
+    2. Machado, C. M. et al. Impact of selective serotonin-reuptake inhibitors in hemorrhagic risk in anticoagulated patients taking non-vitamin K antagonist anticoagulants: a systematic review and meta-analysis. J Clin Psychopharmacol 2023; 43: 267–272, doi:10.1097/jcp.0000000000001684.
+    3. Stockley, I. H. Stockley's Drug Interactions. Pharmaceutical Press (2008).
+    4. Spaans, E. et al. The effects of mirtazapine on steady state prothrombin time during warfarin therapy. Pharmacol Toxicol 2001; 89: 80.
+    5. Norton, J. et al. Mirtazapine-induced warfarin toxicity. Primary Psychiatry 2002; 9: 30–31.
+    6. Nishimura, H. et al. A case with the increased PT-INR after the addition of mirtazapine to warfarin therapy. Seishin Shinkeigaku Zasshi 2015; 117: 820–825.
+    7. Chang, K. H. et al. Major bleeding risk in patients with non-valvular atrial fibrillation concurrently taking direct oral anticoagulants and antidepressants. Front Aging Neurosci 2022; 14: 791285, doi:10.3389/fnagi.2022.791285
+    8. Verdel, B. M. et al. Use of serotonergic drugs and the risk of bleeding. Clin Pharmacol Therapeutics 2011; 89: 89–96, doi: [https://doi.org/10.1038/clpt.2010.240](https://doi.org/10.1038/clpt.2010.240).
+    9. Chen, C. M. et al. Major bleeding risk in atrial fibrillation patients co-medicated with non-vitamin K oral anticoagulants and antipsychotics. Front Pharmacol 2022; 13: 819878, doi:10.3389/fphar.2022.819878.
+    10. Parker, C. et al. Antipsychotic drugs and risk of venous thromboembolism: nested case-control study. BMJ 2010; 341: c4245, doi:10.1136/bmj.c4245.
+    11. Loiseau, P. Sodium valproate, platelet dysfunction, and bleeding. Epilepsia 1981; 22: 141–146, doi: [https://doi.org/10.1111/j.1528-1157.1981.tb04094.x](https://doi.org/10.1111/j.1528-1157.1981.tb04094.x).
+    12. Fajardo, A. et al. Valproic acid and the risk of perioperative bleeding. Case report and literature review. Col J Anesthesiol 2013; 41: 61–64, doi: [https://doi.org/10.1016/j.rcae.2012.07.007](https://doi.org/10.1016/j.rcae.2012.07.007).
+    13. Post, D. S. et al. Assessment of need for hemostatic evaluation in patients taking valproic acid: A retrospective cross-sectional study. PLOS ONE 2022; 17: e0264351, doi:10.1371/journal.pone.0264351.
+    14. Shan, J. et al. Prevalence of heavy menstrual bleeding and its associated cognitive risks and predictive factors in women with severe mental disorders. Front Pharmacol 2022; 13: 904908, doi:10.3389/fphar.2022.904908.
+    15. Sleiman, C. et al. Fatal Pulmonary hemorrhage during high-dose valproate monotherapy. Chest 2000; 117: 613, doi: [https://doi.org/10.1378/chest.117.2.613](https://doi.org/10.1378/chest.117.2.613).
+    16. Johnston, J. P. et al. Valproic acid-induced thrombocytopenia-related spontaneous systemic Bleeding. Am J Case Rep 2020; 21: e927830, doi:10.12659/ajcr.927830.
+    17. Chen, H. F. et al. Valproic acid-associated low fibrinogen and delayed intracranial hemorrhage: case report and mini literature review. Drug Des Devel Ther 2013; 7: 767–770, doi:10.2147/dddt.S47718.
+    18. Steffel, J. et al. The 2018 European Heart Rhythm Association practical guide on the use of non-vitamin K antagonist oral anticoagulants in patients with atrial fibrillation. Eur Heart J 2018; 39: 1330–1393, doi:10.1093/eurheartj/ehy136.
+    19. Giustozzi, M. et al. Concomitant use of direct oral anticoagulants and antiepileptic drugs: a prospective cohort study in patients with atrial fibrillation. Clin Drug Investig 2021; 41: 43–51, doi:10.1007/s40261- 020- 00982- 8.
+    20. Gronich, N., Stein, N. & Muszkat, M. Association between use of pharmacokinetic-interacting drugs and effectiveness and safety of direct acting oral anticoagulants: nested case-control study. Clin Pharmacol Ther 2021; 110: 1526–1536, doi:10.1002/cpt.2369.
+    21. Candeloro, M. et al. Carbamazepine, phenytoin, and oral anticoagulants: Drug-drug interaction and clinical events in a retrospective cohort. Res Pract Thromb Haemost 2022; 6: e12650, doi:10.1002/rth2.12650.
+    22. Li, A. et al. Drug-drug interactions with direct oral anticoagulants associated with adverse events in the real world: A systematic review. Thromb Res 2020; 194: 240–245, doi:10.1016/j.thromres.2020.08.016.
+    23. Song, D. et al. Lithium attenuates blood-brain barrier damage and brain edema following intracerebral hemorrhage via an endothelial Wnt/β-catenin signaling-dependent mechanism in mice. CNS Neurosci Ther 2022; 28: 862–872, doi:10.1111/cns.13832.
+    24. Oguzoglu, A. S. et al. Pregabalin protects brain tissue from subarachnoid hemorrhage by enhancing HIF-1α/eNOS signaling and VEGF production. World Neurosurg 2021; 152: e713–e720, doi:10.1016/j.wneu.2021.06.011.
+    25. Cholongitas, E. et al. Recurrence of upper gastrointestinal bleeding after donepezil administration. Alzheimer Dis Assoc Disord 2006; 20: 326, doi:10.1097/01.wad.0000213851.59119.0b.
+    26. Kok, K. S. et al. Upper gastrointestinal bleed associated with cholinesterase inhibitor use. BMJ Case Reports 2015, doi:10.1136/bcr-2015- 211859.
+    27. Gareri, P. et al. Melaena following Use of the Cholinesterase Inhibitor Rivastigmine. Clinical Drug Investigation 2005; 25: 215–217, doi:10.2165/00044011- 200525030- 00008.
+    28. Bennett, J. A. et al. Acetylcholine Inhibits Platelet Activation.
+    29. [Reference continues but cut off in source material]
+</aside>
+
+</aside>
+
+<aside>
+
+### SECTION 5: **Dialysis - Generalities and Antidepressants**
+
+<aside>
+
+- **Content**
+    
+    **The Effect of Dialysis on Psychotropics**
+    
+    - **Key principle:** Dialysis does not restore renal function
+        - Patients still have extremely poor to no kidney function between sessions
+        - Drugs not removed by dialysis should be used as in severe renal impairment
+        - Even when drugs removed by dialysis, not equivalent to having working kidneys
+    - **Expected drug removal:**
+        - In principle, drugs should be removed by dialysis (diffusion along concentration gradient)
+        - Reality more complex: removal depends on multiple factors
+        - Combination of factors determines drug's "dialysability"
+    
+    **Dialysability**
+    
+    - **Molecular size:** Drug must be small enough to pass through semipermeable membrane pores
+    - **Protein binding:**
+        - Protein-bound molecules too big to pass through
+        - Only unbound drug can be removed
+        - Proportion available for dialysis removal may change if patient's protein levels change
+        - General rule: drugs >80% protein bound less likely removed than those with lower protein binding²⁰
+    - **Volume of distribution:**
+        - High volume drugs tend to have lower plasma protein binding but are more lipid soluble
+        - Distributed widely throughout tissues, present in relatively small blood amounts
+        - Less likely to be available for dialysis removal
+        - Volume of distribution >0.7ml/kg considered high in this context²⁰
+    
+    **Depression**
+    
+    - **Prevalence**
+    - Depression occurs frequently in chronic kidney disease patients, with prevalence rates possibly three times that of the general population¹
+    - Rates may exceed those in patients with other chronic illnesses²
+    - When haemodialysis patients are screened for depression, rates are similarly high (one in four), with many undiagnosed and untreated³
+    - **Three-dimensional association:**
+        - Inflammation associated with depression may contribute to kidney disease progression (interleukin-6 may play a role in pathophysiology⁴)
+        - Burden of end-stage renal disease may lead to depression, and depression may increase perceived burden
+        - Depression may interfere with treatment adherence and nutrition maintenance⁵
+        - Depression in end-stage renal disease may be associated with increased mortality⁶⁻⁸, with risk degree linked to depression severity⁹
+    
+    **Antidepressant Choice**
+    
+    - Despite prevalence and impact, trials examining antidepressant efficacy/safety in dialysis patients are few:
+    - Mostly short (12 weeks)
+    - Many non-randomised or open-label
+    - Focused on SSRIs¹⁰'¹¹
+    - Insufficient data to support selection of any single drug over another for efficacy
+    - **Choice should be based on:**
+        - Patient preference
+        - Extrapolation of data from non-dialysis populations
+        - Safety (likely most important given significant comorbidity burden)
+        - Some symptoms commonly experienced by dialysis patients (fatigue, insomnia, poor appetite) may be caused by uraemia but overlap with depression diagnostic criteria²
+    - **Cardiac considerations are crucial:**
+        - End-stage renal disease patients at increased risk of cardiac side effects due to polypharmacy, electrolyte changes during dialysis, frequent cardiovascular comorbidities
+        - Riskiest time for cardiac events: hours before, during, and after dialysis
+        - Fluid loading increases up to dialysis time, increasing bradycardia risk in preceding 12 hours and right ventricular pressure
+        - This increases atrial fibrillation risk during dialysis
+        - If rate-controlling medications are removed by dialysis, arrhythmia risk higher after dialysis¹²
+    - **QT prolongation concerns:**
+        - Large retrospective cohort study of >65,000 haemodialysis patients examined citalopram/escitalopram vs non-QT-prolonging SSRIs
+        - Found hazard ratio for sudden cardiac death of 1.18 for escitalopram and citalopram¹³
+        - Absolute risk small (0.02% vs 0.017%) but translates to one extra death per 48 patients treated yearly
+        - Enhanced effect in elderly, women, patients with pre-existing conduction disorders, those taking other QT-prolonging medications
+    - **Recommendations:**
+        - **Avoid** citalopram and escitalopram in dialysis patients if possible, especially with other long-QT risk factors
+        - **Avoid** TCAs due to proarrhythmic effects, potential bradycardia, effects on cardiac contractility¹⁴
+        - **Prefer** mirtazapine or sertraline (shown safe post-MI¹⁵'¹⁶)
+        - Neither mirtazapine nor sertraline removed by dialysis
+        - Mirtazapine: start low doses, increase cautiously (clearance reduced ~50% in severe renal impairment¹⁷)
+        - Sertraline: clearance not significantly affected by renal impairment, can prescribe as normal¹⁸
+    
+    **Antidepressants:**
+    
+    - Unaffected by dialysis
+    - **Avoid:** citalopram and escitalopram if possible (increased sudden cardiac death association)
+    - **Moclobemide**
+    - 50% protein bound
+    • Volume of distribution 1L/kg¹⁸
+    • Probably dialysed, but almost none excreted in urine
+    • Dosing does not need alteration for renal impairment (kidneys not involved in excretion)
+    • Dialysis should have no appreciable impact on plasma concentrations
+    • Confirmed by published data showing no pharmacokinetic changes²⁷
+
+<aside>
+
+🔑 **Key Points by Dr. Gee**
+
+- Dialysis does not restore renal function.  Patients still have extremely poor to zero kidney function between dialysis sessions.  This means that if a drug is not removed by the dialysis process, it should be used as in severe renal impairment.
+- Depression is very common in patients undergoing dialysis. There are insufficient data to suggest superiority of any single antidepressant in terms of efficacy in dialysis patients.
+- Antidepressants are not dialysed, and so should be dosed in line with guidelines for severe renal impairment.  There may be an increased risk of sudden cardiac death with citalopram and escitalopram, so these should ideally be avoided.  TCAs should also be avoided due to cardiac risk.  Sertraline and mirtazapine are generally good choices.
+</aside>
+
+- **References**
+    
+    ¹ Palmer S. et al. Prevalence of depression in chronic kidney disease: systematic review and meta-analysis of observational studies. Kidney Int 2013; 84 (1):179–191.
+    
+    ² Shirazian S. et al. Depression in chronic kidney disease and end-stage renal disease: similarities and differences in diagnosis, epidemiology, and management. Kidney Int Rep 2017; 2 (1): 94–107.
+    
+    ³ Yeh C. Y. et al. Prescription of psychotropic drugs in patients with chronic renal failure on hemodialysis. Ren Fail 2014; 36(10):1545–1549.
+    
+    ⁴ Sonikian M. et al. Effects of interleukin-6 on depression risk in dialysis patients. American Journal of Nephrology 2010; 31(4): 303–308.
+    
+    ⁵ Katon W. J. Clinical and health services relationships between major depression, depressive symptoms, and general medical illness. Biol Psychiatry 2003; 54(3): 216–226.
+    
+    ⁶ Farrokhi F. et al. Association between depression and mortality in patients receiving long-term dialysis: a systematic review and meta-analysis. Am J Kidney Dis 2014; 63(4): 623–635.
+    
+    ⁷ Lopes A. A. et al. Depression as a predictor of mortality and hospitalization among hemodialysis patients in the United States and Europe. Kidney Int 2002; 62(1):199–207.
+    
+    ⁸ Wu P. H. et al. Depression amongst patients commencing maintenance dialysis is associated with increased risk of death and severe infections: A nationwide cohort study. PLoS One 2019; 14(6): e0218335.
+    
+    ⁹ Saglimbene V. et al. Depression and all-cause and cardiovascular mortality in patients on haemodialysis: a multinational cohort study. Nephrology Dialysis Transplantation 2016; 32(2): 377–384.
+    
+    ¹⁰ Natale, P. et al. Antidepressants for treating depression in adults with end-stage kidney disease treated with dialysis. Cochrane Database Syst Rev 2016; 5: Cd004541.
+    
+    ¹¹ Nagler, E.V. et al. Antidepressants for depression in stage 3–5 chronic kidney disease: a systematic review of pharmacokinetics, efficacy and safety with recommendations by European Renal Best Practice (ERBP). Nephrol Dial Transplant 2012; 27(10): 3736–3745.
+    
+    ¹² Weinhandl, E. D. Piecing together the risk of sudden cardiac death on dialysis. Journal of the American Society of Nephrology 2019; 30(4): 521–523.
+    
+    ¹³ Assimon M.M. et al. Comparative cardiac safety of selective serotonin reuptake inhibitors among individuals receiving maintenance hemodialysis. J Am Soc Nephrol 2019; 30(4): 611–623.
+    
+    ¹⁴ De la Cruz, A. et al. Current updates regarding antidepressant prescribing in cardiovascular dysfunction. American College of Cardiology Jan 7, 2019.
+    
+    ¹⁵ Honig A. et al. Treatment of post-myocardial infarction depressive disorder: A randomized, placebo-controlled trial with mirtazapine. Psychosomatic Medicine 2007; 69(7): 606–613.
+    
+    ¹⁶ O'Connor C. M. et al. Safety and efficacy of sertraline for depression in patients with heart failure: Results of the SADHART-CHF trial. Journal of the American College of Cardiology 2010; 56(9): 692–699.
+    
+    ¹⁷ Timmer, C. J. et al. Clinical pharmacokinetics of mirtazapine. Clinical Pharmacokinetics, 2000; 461–474.
+    
+    ¹⁸ Ashley, C. et al. The Renal Drug Database. Boca Raton, FL: CRC Press; 2022.
+    
+    ¹⁹ Laing, E. et al. Relapse and frequency of injection of monthly paliperidone palmitate—A retrospective case–control study. European Psychiatry 2021; 64(1): e11.
+    
+    ²⁰ Olyaei, A. J. et al. A quantitative approach to drug dosing in chronic kidney disease. Blood Purification 2011; 31(1–3): 138–145.
+    
+    ²⁵ Lin, J- H. et al. Long-acting injectable paliperidone palmitate in a haemodialysis patient with schizophrenia. Aus & NZ J Psychiatry 2021; 55(8): 829–830.
+    
+    ²⁶ Samalin, L. et al. Interest of clozapine and paliperidone palmitate plasma concentrations to monitor treatment in schizophrenic patients on chronic hemodialysis. Schizophrenia Research 2015; 166(1): 351–352.
+    
+    ²⁷ Stoeckel, K. et al. Absorption and disposition of moclobemide in patients with advanced age or reduced liver or kidney function. Acta Psychiatr Scand Suppl 1990; 360: 94–97.
+    
+    ²⁸ Franssen, E. J. et al. Valproic acid toxicokinetics: serial hemodialysis and hemoperfusion. Ther Drug Monit 1999; 21(3): 289–292.
+    
+    ²⁹ Kandrotas, R. J. et al. The effect of hemodialysis and hemoperfusion on serum valproic acid concentration. Neurology 1990; 40(9): 1456–1456.
+    
+    ³⁰ Araki, K. et al. Pharmacological monitoring of antiepileptic drugs in epilepsy patients on haemodialysis. Epileptic Disord 2020; 22(1): 90–102.
+    
+    ³¹ Dasgupta, A. et al. Diminished protein binding capacity of uremic sera for valproate following hemodialysis: role of free fatty acids and uremic compounds. Am J Nephrology 1996; 16(4): 327–333.
+    
+    ³² Baghdady, N. T. et al. Psychotropic drugs and renal failure: Translating the evidence for clinical practice.
+    
+    ³³ Data on lamotrigine protein binding and volume of distribution.
+    
+    ³⁹ Bjarnson and colleagues method for lithium dosing calculation.
+    
+    ⁴⁰⁻⁴¹ General dosing recommendations for lithium in dialysis patients.
+    
+    ⁴³ Bicarbonate vs acetate dialysate solutions effects on lithium removal.
+    
+    ⁴⁴ Benzodiazepine dialysis effects data.
+    
+</aside>
+
+</aside>
+
+<aside>
+
+### SECTION 6: Dialysis - Antipsychotics
+
+<aside>
+
+- **Content**
+    
+    ### Psychosis
+    
+    - For schizophrenia patients, question often: "Can pre-existing antipsychotic be continued?" rather than "What to newly start?"
+    - Must consider patient's history of antipsychotic response and current response
+    - **Switching risks:**
+        - Switching from effective antipsychotic always carries relapse risk
+        - Psychotic relapse may affect dialysis compliance
+        - Without dialysis, prognosis inevitably dire
+        - May be worth pursuing less desirable physical strategies for mental health stability
+    - **Manufacturer warnings consideration:**
+        - May advise against use in severe renal impairment due to data paucity rather than specific risk
+        - Not necessarily reason to avoid in clinical practice
+        - Example: clozapine contraindicated in severe renal impairment despite minimal renal clearance relevance
+        - Clozapine may be life-saving in end-stage renal disease as irreplaceable medication
+    
+    ### Depots
+    
+    - No direct contraindication to using depots in dialysis patients
+    - **Advantages:**
+        - May enhance adherence in patients with high physical medication burden
+        - Maintaining psychiatric stability essential for enabling physical health treatment
+    - **Disadvantages:**
+        - Drug cannot be quickly removed if adverse effect occurs or physical condition worsens
+    - **QT prolongation concerns during dialysis:**
+        - Prefer aripiprazole or paliperidone where possible (minimal QT interval effects)
+    - **Practical considerations:**
+        - Depot doses can often be delayed weeks/months with little psychiatric consequence
+        - If dialysis temporary with expected return to good health, may be prudent to wait before next dose
+        - For typical antipsychotic depots, active drug released slowly over weeks, so delay strategy may benefit clinical team anxiety more than patient
+    - **Important warning:** Enhanced relapse risk for patients not receiving expected number of injections yearly (repeated delays/missed doses)¹⁹
+    - If doses delayed, subsequent doses must be given at originally scheduled time (check manufacturer guidance)
+    
+    ### Specific Drug Considerations
+    
+    ### Risperidone
+    
+    - Less protein bound than other antipsychotics
+    • Mostly excreted unchanged in urine
+    • May be candidate for dialysis removal, but other parameters suggest otherwise
+    • Clearance drastically reduced in end-stage renal failure
+    • Limited data on dialysis use, but appears safe with dose adjustments
+    
+    ### Paliperidone
+    
+    - 74% protein bound (compared with >90% for other antipsychotics)
+    • Mostly excreted unchanged in urine (59%)¹⁸
+    • Very high volume of distribution (487L)¹⁸
+    • Clearance reduced by 71% in end-stage renal failure
+    • Case reports show either no plasma concentration change pre/post-dialysis²⁶ or successful symptom treatment²⁵
+    • Appears safe but use reduced doses (reduce by at least half initially)
+    • Give dose after dialysis
+    • Does not seem removed by dialysis process
+    
+    ### Amisulpride
+    
+    - Much less protein bound than other antipsychotics (16%)
+    • About 50% excreted unchanged in urine
+    • Lower volume of distribution (5.8L)¹⁸
+    • Poorly dialysed¹⁸
+    • Clearance reduced by factor of 2.5-3 in renal impairment
+    • 10-fold increase in area under curve in moderate renal impairment¹⁸
+    • Manufacturers recommend total avoidance
+    • No dialysis data available
+    • Extreme caution with dosing if used; switching preferable
+    
+    ### Sulpiride
+    
+    - More protein bound than amisulpride (40%)
+    • 90% excreted unchanged by kidneys (not metabolised)¹⁸
+    • Lower volume of distribution than amisulpride (1.2-1.7L/kg)
+    • Partly dialysed¹⁸
+    • Very cautious dosing required (reduce by third and/or extend intervals threefold)
+    • Give dose after dialysis
+    • Switching to less accumulating drug preferable
+
+<aside>
+
+🔑 **Key Points by Dr. Gee**
+
+- It is vital to maintain symptom control for patients with psychosis who require dialysis, because a relapse of psychosis is likely to make compliance with regular dialysis challenging.  Wherever possible, maintaining treatment with the antipsychotic the patient is stable on should be the aim.  Plasma concentrations can be used to guide dosing of clozapine.
+- Depots, or long-acting antipsychotic injections, can be useful for patients undergoing dialysis because the medication burden in end-stage renal disease is already high, and depots are the best way to maintain concordance and therefore symptom control.  Aripiprazole and paliperidone are preferable because of a lower risk of QT prolongation than other depot antipsychotics.
+- Most antipsychotics are unaffected by dialysis.  Clearance of risperidone and paliperidone is reduced in severe renal impairment, so doses should be adjusted.  Renal excretion of amisulpride and sulpiride is much higher than for the other antipsychotics, and they may be dialysed to some extent.  Both should be avoided if possible.
+</aside>
+
+- **References**
+    
+    ¹ Palmer S. et al. Prevalence of depression in chronic kidney disease: systematic review and meta-analysis of observational studies. Kidney Int 2013; 84 (1):179–191.
+    
+    ² Shirazian S. et al. Depression in chronic kidney disease and end-stage renal disease: similarities and differences in diagnosis, epidemiology, and management. Kidney Int Rep 2017; 2 (1): 94–107.
+    
+    ³ Yeh C. Y. et al. Prescription of psychotropic drugs in patients with chronic renal failure on hemodialysis. Ren Fail 2014; 36(10):1545–1549.
+    
+    ⁴ Sonikian M. et al. Effects of interleukin-6 on depression risk in dialysis patients. American Journal of Nephrology 2010; 31(4): 303–308.
+    
+    ⁵ Katon W. J. Clinical and health services relationships between major depression, depressive symptoms, and general medical illness. Biol Psychiatry 2003; 54(3): 216–226.
+    
+    ⁶ Farrokhi F. et al. Association between depression and mortality in patients receiving long-term dialysis: a systematic review and meta-analysis. Am J Kidney Dis 2014; 63(4): 623–635.
+    
+    ⁷ Lopes A. A. et al. Depression as a predictor of mortality and hospitalization among hemodialysis patients in the United States and Europe. Kidney Int 2002; 62(1):199–207.
+    
+    ⁸ Wu P. H. et al. Depression amongst patients commencing maintenance dialysis is associated with increased risk of death and severe infections: A nationwide cohort study. PLoS One 2019; 14(6): e0218335.
+    
+    ⁹ Saglimbene V. et al. Depression and all-cause and cardiovascular mortality in patients on haemodialysis: a multinational cohort study. Nephrology Dialysis Transplantation 2016; 32(2): 377–384.
+    
+    ¹⁰ Natale, P. et al. Antidepressants for treating depression in adults with end-stage kidney disease treated with dialysis. Cochrane Database Syst Rev 2016; 5: Cd004541.
+    
+    ¹¹ Nagler, E.V. et al. Antidepressants for depression in stage 3–5 chronic kidney disease: a systematic review of pharmacokinetics, efficacy and safety with recommendations by European Renal Best Practice (ERBP). Nephrol Dial Transplant 2012; 27(10): 3736–3745.
+    
+    ¹² Weinhandl, E. D. Piecing together the risk of sudden cardiac death on dialysis. Journal of the American Society of Nephrology 2019; 30(4): 521–523.
+    
+    ¹³ Assimon M.M. et al. Comparative cardiac safety of selective serotonin reuptake inhibitors among individuals receiving maintenance hemodialysis. J Am Soc Nephrol 2019; 30(4): 611–623.
+    
+    ¹⁴ De la Cruz, A. et al. Current updates regarding antidepressant prescribing in cardiovascular dysfunction. American College of Cardiology Jan 7, 2019.
+    
+    ¹⁵ Honig A. et al. Treatment of post-myocardial infarction depressive disorder: A randomized, placebo-controlled trial with mirtazapine. Psychosomatic Medicine 2007; 69(7): 606–613.
+    
+    ¹⁶ O'Connor C. M. et al. Safety and efficacy of sertraline for depression in patients with heart failure: Results of the SADHART-CHF trial. Journal of the American College of Cardiology 2010; 56(9): 692–699.
+    
+    ¹⁷ Timmer, C. J. et al. Clinical pharmacokinetics of mirtazapine. Clinical Pharmacokinetics, 2000; 461–474.
+    
+    ¹⁸ Ashley, C. et al. The Renal Drug Database. Boca Raton, FL: CRC Press; 2022.
+    
+    ¹⁹ Laing, E. et al. Relapse and frequency of injection of monthly paliperidone palmitate—A retrospective case–control study. European Psychiatry 2021; 64(1): e11.
+    
+    ²⁰ Olyaei, A. J. et al. A quantitative approach to drug dosing in chronic kidney disease. Blood Purification 2011; 31(1–3): 138–145.
+    
+    ²⁵ Lin, J- H. et al. Long-acting injectable paliperidone palmitate in a haemodialysis patient with schizophrenia. Aus & NZ J Psychiatry 2021; 55(8): 829–830.
+    
+    ²⁶ Samalin, L. et al. Interest of clozapine and paliperidone palmitate plasma concentrations to monitor treatment in schizophrenic patients on chronic hemodialysis. Schizophrenia Research 2015; 166(1): 351–352.
+    
+    ²⁷ Stoeckel, K. et al. Absorption and disposition of moclobemide in patients with advanced age or reduced liver or kidney function. Acta Psychiatr Scand Suppl 1990; 360: 94–97.
+    
+    ²⁸ Franssen, E. J. et al. Valproic acid toxicokinetics: serial hemodialysis and hemoperfusion. Ther Drug Monit 1999; 21(3): 289–292.
+    
+    ²⁹ Kandrotas, R. J. et al. The effect of hemodialysis and hemoperfusion on serum valproic acid concentration. Neurology 1990; 40(9): 1456–1456.
+    
+    ³⁰ Araki, K. et al. Pharmacological monitoring of antiepileptic drugs in epilepsy patients on haemodialysis. Epileptic Disord 2020; 22(1): 90–102.
+    
+    ³¹ Dasgupta, A. et al. Diminished protein binding capacity of uremic sera for valproate following hemodialysis: role of free fatty acids and uremic compounds. Am J Nephrology 1996; 16(4): 327–333.
+    
+    ³² Baghdady, N. T. et al. Psychotropic drugs and renal failure: Translating the evidence for clinical practice.
+    
+    ³³ Data on lamotrigine protein binding and volume of distribution.
+    
+    ³⁹ Bjarnson and colleagues method for lithium dosing calculation.
+    
+    ⁴⁰⁻⁴¹ General dosing recommendations for lithium in dialysis patients.
+    
+    ⁴³ Bicarbonate vs acetate dialysate solutions effects on lithium removal.
+    
+    ⁴⁴ Benzodiazepine dialysis effects data.
+    
+</aside>
+
+</aside>
+
+<aside>
+
+### SECTION 7: Dialysis - Lithium, Valproate, and Lamotrigine
+
+<aside>
+
+- **Content**
+    
+    ### Lithium
+    
+    - **Most complex management scenario**
+    • Entirely renally cleared and removed by dialysis
+    • If unavoidable, use is possible with careful planning
+    - **Two-compartment pharmacokinetic model:**
+        - Initially distributed to extracellular space (central compartment)
+        - Gradually moves to intracellular space (peripheral compartment)
+        - Takes 5-10 days for equilibration
+        - Explains plasma concentration rebound after dialysis
+    - **Dosing approach:**
+        - Aim for stable, therapeutic intra-dialysis plasma concentrations
+        - Give single dose immediately after dialysis only
+        - Dose stays in body until next dialysis session
+        - If significant residual diuresis present, daily dosing may be required
+    - **Calculation methods:**
+        - **Formula approach (Bjarnson et al)³⁹:**
+            - Vd = 0.8L/kg × bodyweight
+            - Loading dose = Vd × target concentration (given once after first dialysis)
+            - Central compartment volume = 0.333 × Vd
+            - Maintenance dose = CCV × target concentration (given after subsequent dialysis)
+    - **Cautious approach:** Start 200-400mg once after dialysis only (no doses on non-dialysis days), increase cautiously
+    - Alternative dosing: 400-600mg generally provides therapeutic concentrations⁴⁰'⁴¹
+    - **Special considerations:**
+    - Patients requiring long dialysis sessions (>5h) may need higher doses
+    - Haematocrit affects removal (lower haematocrit = higher clearance)
+    - Residual diuresis and sweat also remove lithium
+    - **Monitoring requirements:**
+        - Daily pre-dialysis plasma concentrations for at least first 2 weeks
+        - Aim for lower end of therapeutic range initially
+        - Account for heightened sensitivity and blood-brain barrier permeability in uraemia
+        - After dose identification, reduce frequency to dialysis days only
+        - After stability (three consecutive stable concentrations⁴¹), extend to 1-3 times monthly
+        - Careful observation for toxicity or relapse signs
+        - Use correct blood tubes (avoid lithium heparin anticoagulant)
+    - **Dialysate considerations:**
+        - Bicarbonate-based solutions may remove lithium more efficiently than acetate-based⁴³
+        - Results in less rebound effect and lower post-dialysis requirements
+    
+    ### Sodium Valproate
+    
+    - Extensively metabolised by liver; metabolites excreted by kidneys
+    • Low volume of distribution (0.1-0.4L/kg)¹⁸
+    • Highly protein bound (potential for increased free fraction if low albumin)
+    • High protein binding makes dialysis unlikely (except overdose where binding saturated²⁸)
+    • Some case reports show no changes on dialysis days²⁹
+    • Other studies show ~20% dose removal by dialysis¹⁸ (20% low-efficiency, 42% high-efficiency³⁰)
+    - **Monitoring recommendations:**
+        - Measure plasma concentrations pre/post-dialysis to determine if extra doses needed
+        - Simpler solution: give dose after dialysis
+        - Uraemia on non-dialysis days may increase free drug proportion³¹
+        - Check plasma concentrations between sessions if adverse effects appear
+        - For psychiatric indications, little clinical consequence to small transient changes³²'³³
+    
+    ### Lamotrigine
+    
+    - Primarily hepatically metabolised by glucuronidation
+    • Glucuronide metabolite excreted via kidneys
+    • Metabolite inactive, so impaired excretion doesn't affect parent drug plasma concentrations
+    • Dosing alterations for renal impairment should be unnecessary
+    • Manufacturers advise caution due to unknown consequences of metabolite accumulation
+    • Literature disagreement about dialysability: some state not removed¹⁸, but low volume of distribution (0.92-1.22 L/kg) and 55% protein bound³³
+
+<aside>
+
+🔑 **Key Points by Dr. Gee**
+
+- Lithium is almost entirely renally cleared and removed by dialysis.  Use should be avoided if possible.  If it is essential to continue, a single dose should be given after dialysis and then not given again until after the next dialysis session.  Plasma concentrations pre-dialysis should be used to guide dosing, with initial doses starting cautiously at 200mg, or calculated using pharmacokinetic principles.
+- Metabolites of sodium valproate are extensively renally cleared.  It is highly protein bound, and so free-fraction may increase in low albumin states such as end stage renal failure.  It is unclear to what extent it is dialysed.  Give the dose after dialysis and monitor plasma concentrations.
+- Lamotrigine is hepatically cleared, dose adjustment should be unnecessary in renal impairment although there may be accumulation of the metabolically inactive metabolite.  It is not clear whether lamotrigine is dialysed or not; give doses after dialysis and monitor plasma concentrations.
+</aside>
+
+- **References**
+    
+    ¹ Palmer S. et al. Prevalence of depression in chronic kidney disease: systematic review and meta-analysis of observational studies. Kidney Int 2013; 84 (1):179–191.
+    
+    ² Shirazian S. et al. Depression in chronic kidney disease and end-stage renal disease: similarities and differences in diagnosis, epidemiology, and management. Kidney Int Rep 2017; 2 (1): 94–107.
+    
+    ³ Yeh C. Y. et al. Prescription of psychotropic drugs in patients with chronic renal failure on hemodialysis. Ren Fail 2014; 36(10):1545–1549.
+    
+    ⁴ Sonikian M. et al. Effects of interleukin-6 on depression risk in dialysis patients. American Journal of Nephrology 2010; 31(4): 303–308.
+    
+    ⁵ Katon W. J. Clinical and health services relationships between major depression, depressive symptoms, and general medical illness. Biol Psychiatry 2003; 54(3): 216–226.
+    
+    ⁶ Farrokhi F. et al. Association between depression and mortality in patients receiving long-term dialysis: a systematic review and meta-analysis. Am J Kidney Dis 2014; 63(4): 623–635.
+    
+    ⁷ Lopes A. A. et al. Depression as a predictor of mortality and hospitalization among hemodialysis patients in the United States and Europe. Kidney Int 2002; 62(1):199–207.
+    
+    ⁸ Wu P. H. et al. Depression amongst patients commencing maintenance dialysis is associated with increased risk of death and severe infections: A nationwide cohort study. PLoS One 2019; 14(6): e0218335.
+    
+    ⁹ Saglimbene V. et al. Depression and all-cause and cardiovascular mortality in patients on haemodialysis: a multinational cohort study. Nephrology Dialysis Transplantation 2016; 32(2): 377–384.
+    
+    ¹⁰ Natale, P. et al. Antidepressants for treating depression in adults with end-stage kidney disease treated with dialysis. Cochrane Database Syst Rev 2016; 5: Cd004541.
+    
+    ¹¹ Nagler, E.V. et al. Antidepressants for depression in stage 3–5 chronic kidney disease: a systematic review of pharmacokinetics, efficacy and safety with recommendations by European Renal Best Practice (ERBP). Nephrol Dial Transplant 2012; 27(10): 3736–3745.
+    
+    ¹² Weinhandl, E. D. Piecing together the risk of sudden cardiac death on dialysis. Journal of the American Society of Nephrology 2019; 30(4): 521–523.
+    
+    ¹³ Assimon M.M. et al. Comparative cardiac safety of selective serotonin reuptake inhibitors among individuals receiving maintenance hemodialysis. J Am Soc Nephrol 2019; 30(4): 611–623.
+    
+    ¹⁴ De la Cruz, A. et al. Current updates regarding antidepressant prescribing in cardiovascular dysfunction. American College of Cardiology Jan 7, 2019.
+    
+    ¹⁵ Honig A. et al. Treatment of post-myocardial infarction depressive disorder: A randomized, placebo-controlled trial with mirtazapine. Psychosomatic Medicine 2007; 69(7): 606–613.
+    
+    ¹⁶ O'Connor C. M. et al. Safety and efficacy of sertraline for depression in patients with heart failure: Results of the SADHART-CHF trial. Journal of the American College of Cardiology 2010; 56(9): 692–699.
+    
+    ¹⁷ Timmer, C. J. et al. Clinical pharmacokinetics of mirtazapine. Clinical Pharmacokinetics, 2000; 461–474.
+    
+    ¹⁸ Ashley, C. et al. The Renal Drug Database. Boca Raton, FL: CRC Press; 2022.
+    
+    ¹⁹ Laing, E. et al. Relapse and frequency of injection of monthly paliperidone palmitate—A retrospective case–control study. European Psychiatry 2021; 64(1): e11.
+    
+    ²⁰ Olyaei, A. J. et al. A quantitative approach to drug dosing in chronic kidney disease. Blood Purification 2011; 31(1–3): 138–145.
+    
+    ²⁵ Lin, J- H. et al. Long-acting injectable paliperidone palmitate in a haemodialysis patient with schizophrenia. Aus & NZ J Psychiatry 2021; 55(8): 829–830.
+    
+    ²⁶ Samalin, L. et al. Interest of clozapine and paliperidone palmitate plasma concentrations to monitor treatment in schizophrenic patients on chronic hemodialysis. Schizophrenia Research 2015; 166(1): 351–352.
+    
+    ²⁷ Stoeckel, K. et al. Absorption and disposition of moclobemide in patients with advanced age or reduced liver or kidney function. Acta Psychiatr Scand Suppl 1990; 360: 94–97.
+    
+    ²⁸ Franssen, E. J. et al. Valproic acid toxicokinetics: serial hemodialysis and hemoperfusion. Ther Drug Monit 1999; 21(3): 289–292.
+    
+    ²⁹ Kandrotas, R. J. et al. The effect of hemodialysis and hemoperfusion on serum valproic acid concentration. Neurology 1990; 40(9): 1456–1456.
+    
+    ³⁰ Araki, K. et al. Pharmacological monitoring of antiepileptic drugs in epilepsy patients on haemodialysis. Epileptic Disord 2020; 22(1): 90–102.
+    
+    ³¹ Dasgupta, A. et al. Diminished protein binding capacity of uremic sera for valproate following hemodialysis: role of free fatty acids and uremic compounds. Am J Nephrology 1996; 16(4): 327–333.
+    
+    ³² Baghdady, N. T. et al. Psychotropic drugs and renal failure: Translating the evidence for clinical practice.
+    
+    ³³ Data on lamotrigine protein binding and volume of distribution.
+    
+    ³⁹ Bjarnson and colleagues method for lithium dosing calculation.
+    
+    ⁴⁰⁻⁴¹ General dosing recommendations for lithium in dialysis patients.
+    
+    ⁴³ Bicarbonate vs acetate dialysate solutions effects on lithium removal.
+    
+    ⁴⁴ Benzodiazepine dialysis effects data.
+    
+</aside>
+
+</aside>
+
+<aside>
+
+### SECTION 8: **Non-Oral Routes of Administration - Focus on Antidepressants**
+
+<aside>
+
+- **Content**
+    
+    **Introduction**
+    
+    - Oral administration of medicines may not always be possible in patients who are unable or unwilling to take medicines orally, or when gastrointestinal absorption of medication may be compromised
+    - Alternative treatments such as psychological interventions and electroconvulsive therapy (ECT) are often either impractical or contra-indicated in the medically unwell patient
+    - In some scenarios, it may be necessary to consider indications and routes of administration that are outside standard labelling
+    - Psychotropics that are not conventionally labelled as antidepressants may possess pharmacological antidepressant activity, and may be more readily available in non-oral formulations
+    - Many of the atypical antipsychotics are available as intramuscular injections, although data supporting use in depression are limited to oral adjunct of standard antidepressants
+    - Use of off-label formulations or licensed formulations via unlicensed routes (crushing tablets, administering via enteral feeding tubes) requires documentation of the reasoning for the choice of treatment and route, as with all unlicensed preparations
+        
+        [1]
+        
+    - Every effort should be made to outline this reasoning to the patient and/or their next of kin
+    
+    **Enteral Feeding Tubes**
+    
+    - If the patient has a feeding tube in place, medicines can usually be administered using this route
+    - Enteral feeding tubes can be inserted via the nasopharynx into the stomach (nasogastric, NG) or jejunum (nasojejunal, NJ)
+    - Alternatively, the tube may be inserted directly into the gastrointestinal tract through the skin, either into the stomach (percutaneous endoscopic gastrostomy, PEG) or jejunum (jejunostomy, often a PEG with an extension into the jejunum, PEG-J)
+    - Wide-bore tubes may be inserted NG and used for aspiration or drainage (Ryles tubes) - these cannot usually be used for medicine administration unless it is possible to temporarily pause the drainage
+    - Delivery of drugs via NG or PEG would be expected to afford little change in pharmacokinetics, since most drug absorption occurs in the small intestine, distal to the point of delivery via the tube
+    - One case report found reduced plasma concentrations of clozapine using a PEG
+        
+        [2]
+        
+    - Delivery of drugs via gastric access devices can be influenced by enteral feeds, resulting in reduced absorption (e.g. tetracyclines, levothyroxine, bisphosphonates), premature degradation and activation (proton pump inhibitors), increased absorption (carbamazepine), or chelation (warfarin, tetracyclines, phenytoin)
+        
+        [3]
+        
+    - Administration into the jejunum ('postpyloric', NJ or PEG-J) may be more problematic for drug delivery than NG routes
+    - Both increased and decreased absorption can occur with jejunal administration - increased absorption may result because of the reduced opportunity for degradation by stomach acid or reduced first-pass metabolism
+        
+        [4]
+        
+    - Reduced absorption may be a consequence of the missed opportunity for absorption in the duodenum
+    - The position of the tube may also cause problems, as the distal point of the tube can migrate along the gastrointestinal tract, potentially delivering medication to sites other than those considered optimal for absorption
+        
+        [3-1]
+        
+    - Tube occlusion can occur; it is more likely if drugs are inadequately suspended (e.g. with large insoluble solid particles) and if the tubes are narrow and/or longer
+        
+        [3-2]
+        
+    - In general, if an enteral tube can be used for medicines administration it is better to try this route and observe response rather than dismissing it for fear of lack of drug absorption
+    - Where possible, use commercial liquid formulations of drugs to administer via enteral tubes
+    - Orodispersible formulations can be dispersed in water
+    - If no liquid formulation is available, in the majority of cases there is little risk to crushing tablets
+    - Crushing should aim to reduce particle size to a minimum
+    - The use of plasma concentrations to guide dosing when using enteral feeding tubes is recommended when using drugs with a narrow therapeutic index (clozapine, lithium)
+    - Plasma level monitoring may also be helpful for some cases in differentiating between non-response and lack of absorption
+    
+    **Antidepressants**
+    
+    - Very few non-oral formulations of antidepressants are available as commercial products
+    - Most formulations do not have formal licences and may be very difficult to obtain, being available only through pharmaceutical importers or from Specials manufacturers
+    
+    **Sublingual Antidepressants**
+    
+    - There are a small number of case reports supporting the effectiveness of fluoxetine liquid used sublingually in depressed, medically compromised patients
+        
+        [5]
+        
+    - Doses of up to 60mg a day produced plasma fluoxetine and norfluoxetine levels towards the lower end of the proposed therapeutic range
+        
+        [5-1]
+        
+    - Ketamine injection has also been used sublingually, with apparent good efficacy
+        
+        [6]
+        
+    - It may be better tolerated than other routes of administration (IV or SC)
+        
+        [6-1]
+        
+    
+    **Buccal Antidepressants**
+    
+    - Selegiline is available as oral lyophilisates for absorption in the buccal cavity (licensed for the treatment of Parkinson's disease), but is selective for MAO-B inhibition at the 1.25mg doses available
+    - A lack of action at MAO-A in the central nervous system at these doses is thought to preclude antidepressant activity
+        
+        [7]
+        
+    - A very small study of orally disintegrating 10mg/day selegiline showed significant inhibition of brain MAO-A, but clinical antidepressant activity has not been investigated
+        
+        [8]
+        
+    - One case report describes buccal administration of amitriptyline tablets achieving therapeutic plasma levels
+        
+        [9]
+        
+    
+    **Intravenous and Intramuscular Antidepressants**
+    
+    - Intravenous amitriptyline is a European preparation that is available10,11
+    - Intravenous clomipramine is used for 'pulse loading' in treatment-resistant OCD and depression
+        
+        [10]
+        
+    - Intravenous citalopram is an unlicensed preparation that can be requested directly from the manufacturer13,14
+    - Small studies suggest intravenous administration may deliver more rapid symptom relief but efficacy data for IV versus oral are inconsistent15,16
+    - Paediatric formulations of IV amitriptyline exist
+        
+        [11]
+        
+    - IV citalopram requires cardiac monitoring due to potential for QT prolongation18,19
+    - Intravenous mirtazapine has been used in hospital settings20,21
+    - Brexanolone is administered by continuous IV infusion for postpartum depression
+    
+    **Transdermal Antidepressants**
+    
+    - Transdermal selegiline (Emsam™) is the only commercially available transdermal antidepressant
+    - It is licensed in the USA and can be imported for use in the UK
+    - It bypasses first-pass metabolism and has proven efficacy
+        
+        [12]
+        
+    - The dose range is 6-12mg/24h
+    - Lower doses may not require dietary tyramine restriction
+    
+    **Rectal Antidepressants**
+    
+    - Rectal antidepressants are available through compounding pharmacies
+    - Amitriptyline suppositories have been manufactured by pharmacies
+        
+        [13]
+        
+    - Doxepin capsules have been administered via the rectal route directly in the treatment of cancer-related pain and produced plasma concentrations within the supposed therapeutic range
+        
+        [14]
+        
+    - Extemporaneously manufactured imipramine and clomipramine suppositories produced plasma levels comparable with the oral route of administration
+        
+        [15]
+        
+    - Trazodone has been successfully administered in a suppository formulation postoperatively for a patient who was stable on the oral formulation prior to surgery24,26
+    - Sertraline tablets administered rectally have been used with success in a critically ill patient with bowel compromise
+        
+        [16]
+        
+    
+    **Intranasal Antidepressants**
+    
+    - Esketamine is available as a nasal spray (Spravato) and was licensed in the UK in 2019 and in the USA in 2020 for treatment-resistant major depressive disorder
+    - It requires specific administration practices (tilting of the head, sniffing), which may not be possible to adhere to in medically unwell patients
+    - At the time of writing, the UK National Institute of Health and Care Excellence had not recommended intranasal esketamine for use in treatment-resistant depression due to concerns over clinical- and cost-effectiveness (in long-term use)
+    - This may make it difficult to obtain in UK hospitals, where ketamine (in other formulations) is cheap and readily available
+
+<aside>
+
+🔑 **Key Points by Dr. Gee**
+
+- If enteral tubes are in situ, these should ideally be used for drug delivery in a patient that cannot take oral medicines.  Reliable information on exactly where in the gastrointestinal tract a drug is absorbed is lacking, so an absence of information should not preclude trying this route and observing response.  At worst, nothing will happen.  Liquid or orodispersible preparations are preferable
+- Fluoxetine liquid and ketamine injection (the liquid given sublingually) have both been used sublingually.  Selegiline (an MAOI) is available in some countries as oral lyophilisates, although high doses are needed to achieve MAO-A inhibition in the brain.  Case reports describe the use of amitriptyline tablets and orodispersible mirtazapine buccally.  Note that orodispersible preparations are not designed for buccal absorption - the drug disperses into saliva that is then swallowed.
+- Intravenous citalopram is available by direct request to the manufacturers.  Intramuscular amitriptyline preparations can be used IV, but are no longer available in most parts of the world.  IV clomipramine is well studied and available as a licensed product in some countries.  Trazodone is available as IM or IV formulations in Italy.  IV or IM hyoscine has been used as an antidepressant but adverse effects are likely.  IV, IM or SC ketamine has been extensively studied and is widely available.  Flupenthixol depot has been used in low doses for depression.
+- Selegiline is available as a transdermal patch in some countries.  It may be possible to manufacture antidepressant suppositories locally.  Esketamine is available as a nasal spray in some countries.
+</aside>
+
+- **References**
+    1. Royal College of Psychiatry. Use of licensed medicines for unlicensed applications in psychiatric practice. BJPsych Bulletin 2007; 31: doi:10.1192/pb.bp.107.015370.↩︎
+    2. Kuzin, M. et al. Body mass index as a determinant of clozapine plasma concentrations: A pharmacokinetic-based hypothesis. J Clin Psychopharmacol 2021; 35(3): 273–278.↩︎
+    3. Kurien, M., et al. Impact of direct drug delivery via gastric access devices. Expert Opin Drug Deliv 12: 455–463, doi:10.1517/17425247.2015.966683 (2015).↩︎↩︎↩︎
+    4. McIntyre, C. M. et al. Medication absorption considerations in patients with postpyloric enteral feeding tubes. Am J Health Syst Pharm 2014 Apr 1; 71(7): 549–556.↩︎
+    5. Pakyurek, M. et al. Sublingually administered fluoxetine for major depression in medically compromised patients. Am J Psychiatry 1999; 156: 1833–1834.↩︎↩︎
+    6. Swainson, J. et al. Sublingual ketamine: an option for increasing accessibility of ketamine treatments for depression? J Clin Psychiatry 2020; 81: 19lr13146, doi:10.4088/JCP.19lr13146.↩︎↩︎
+    7. Morgan, P. T. Treatment-resistant depression: response to low-dose transdermal but not oral selegiline. J Clin Psychopharmacol 2007; 27: 313–314, doi:10.1097/01.jcp.0000270085.15253.15.↩︎
+    8. Fowler, J. S. et al. Evidence that formulations of the selective MAO-B inhibitor, selegiline, which bypass first-pass metabolism, also inhibit MAO-A in the human brain. Neuropsychopharmacology 2015; 40: 650–657, doi:10.1038/npp.2014.214.↩︎
+    9. Robbins, B. et al. Amitriptyline absorption in a patient with short bowel syndrome. Am J Gastroenterol 1999; 94: 2302–2304, doi:10.1111/j.1572-0241.1999.01323.x.↩︎
+    10. Koran, L. M., Sallee, F. R. & Pallanti, S. Rapid benefit of intravenous pulse loading of clomipramine in obsessive–compulsive disorder. Am J Psychiatry 1997; 154: 396–401.↩︎
+    11. Collins, J. J., et al. Intravenous amitriptyline in pediatrics. J Pain Symptom Manage 1995; 10: 471–475.↩︎
+    12. Amsterdam, J. D. et al. Selegiline transdermal system in the prevention of relapse of major depressive disorder: a 52-week, double-blind, placebo-substitution, parallel-group clinical trial. J Clin Psychopharmacol 2006; 26: 579–586.↩︎
+    13. Adams, S. Amitriptyline suppositories. N Engl J Med 1982; 306: 996.↩︎
+    14. Storey, P. et al. Rectal doxepin and carbamazepine therapy in patients with cancer. N Engl J Med 1992; 327: 1318–1319.↩︎
+    15. Chaumeil, J. C. et al. Formulation of suppositories containing imipramine and clomipramine chlorhydrates. Drug Dev Ind Pharm 1988; 15–17: 2225–2239.↩︎
+    16. Leung, J. G., et al. Rectal bioavailability of sertraline tablets in a critically ill patient with bowel compromise. J Clin Psychopharmacol 2017; 37: 372–373, doi:10.1097/jcp.0000000000000685.↩︎
+</aside>
+
+</aside>
+
+<aside>
+
+### SECTION 9: Clinical Case
+
+<aside>
+
+- **Content**
+    
+    Mrs X is a 57 year old female patient with a history of schizoaffective disorder, hypertension, gastric ulcers and hypercholesterolaemia.  She takes olanzapine 20mg PO OD, sodium valproate 2g MR ON, omeprazole 20mg OD, ramipril 10mg OD, and simvastatin 20mg ON.  Her schizophrenia is very well controlled and she has not required inpatient mental health admission for the last 20 years since being established on olanzapine and sodium valproate.  She lives at home with her husband and works at the local library.
+    
+    Mrs X is admitted to an acute medical hospital with chest pain, and is diagnosed with a myocardial infarction.  She is started on warfarin.  The medical team ask for the olanzapine to be stopped, because of concerns about using antipsychotics in patients with cardiac conditions.  The psychiatric team review her notes and speak to Mrs X and her husband and decide to continue the olanzapine.  This decision is made because Mrs X was very unwell prior to the introduction of olanzapine.  She has tried aripiprazole in the past and it wasn’t effective.  She has also had haloperidol and experienced extrapyramidal side effects.  She was offered lurasidone but declined, being very worried about the impact a change of antipsychotic might make to her mental health.
+    
+    Two weeks after the myocardial infarction Mrs X reported symptoms of depression.  She felt tearful, lacking in energy, and was unable to engage in cardiac rehabilitation.  She was reviewed by the psychiatric team and started on mirtazapine.  This was chosen because of the risk of bleeding with SSRIs or SNRIs, and Mrs K’s history of gastric ulcers.  An appointment was booked with the warfarin clinic to check her INR one week after starting the mirtazapine.  The psychiatric team were concerned about the risk of mirtazapine causing weight gain, particularly given the concurrent olanzapine and recent myocardial infarction so arranged for a dietician to speak to Mrs X.  They also made a plan for the primary care practitioner to review the utility of the mirtazapine in 6 weeks and check Mrs X’s weight.  They advised that the mirtazapine should be switched to an alternative she gains weight, and that the antidepressant treatment should be reviewed for potential discontinuation within 6 months.
+    
+    Mrs X manages at home for a few months but then develops a urinary tract infection.  She becomes confused and has a fall at night.  She is not found until the morning by her husband, and is admitted again to hospital.  She is found to have a severe acute kidney injury and is transferred to intensive care.  She requires short-term dialysis and the medical team stop her olanzapine, valproate and mirtazapine because they are worried about using them in renal failure and are unsure of the risk of toxicity during dialysis.  The psychiatric team review Mrs X and restart her medication.  They request that her ECG is taken to check for QT prolongation.  A few days later the psychiatry team are called again to review Mrs X because she has become quite drowsy.  They request a valproate level and reduce her valproate dose to 1200mg MR ON.  Mrs X recovers and is discharged home.  The psychiatric team handover a plan for the valproate dose to be reviewed by her community psychiatric team after discharge.
+    
+
+<aside>
+
+🔑 **Key Points by Dr. Gee**
+
+- The impact of poor mental health on physical health should not be underestimated.  A medication for a patient’s mental health that is perceived as ‘safer’ from a physical health standpoint may not actually be so, if it does not adequately treat a patient’s mental health.
+- Where medicines are used that may impact on physical health, it is vital to ensure that a clear plan for review is made, with measurable and defined thresholds for action.
+- When medicines are altered during an acute medical admission a plan should be made to review drug choices and dose once the physical health issues have resolved.  Another example of this is if doses of clozapine or olanzapine are altered due to smoking cessation during a hospital admission.
+</aside>
+
+- **References**
+    
+    
+</aside>
+
+</aside>
+
+<aside>
+
+### SECTION 10: Take-Home Messages
+
+<aside>
+
+- **Content**
+    - The importance of treatment mental illness in the context of physical disease is inarguable.  Poor mental health has a negative impact on outcomes in all physical illnesses.  Despite this, we are still a long way from parity of esteem for mental and physical illness.
+    - The reasons for not prescribing robustly and effectively for the mental health condition in someone with physical illnesses must be carefully examined.  Clinicians should ensure they understand the relative versus absolute risk of a side effect occurring, and apply this to the individual situation of the patient they are caring for.  A key part of this calculation that is often overlooked is the impact of not prescribing.
+    - Prescribing in the face of cautions or possible side effects should be done with care and as with all prescribing, plans made for review of both efficacy and adverse effects.  Ineffective medicines must be discontinued to avoid contributing to side effects with no counteracting benefits.
+
+</aside>
+
+</aside>
